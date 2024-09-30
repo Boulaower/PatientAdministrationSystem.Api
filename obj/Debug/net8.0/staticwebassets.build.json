@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vLsb+DyWHxtptUyY2z5zb0A1PRD2oUozxhvKCeGR2KU=",
+  "Source": "PatientAdministrationSystem.API",
+  "BasePath": "_content/PatientAdministrationSystem.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
